@@ -91,6 +91,8 @@ on:
           - -autumn-harvesting
           - -winter-storing
           - -yourname
+          - -Owi
+          - -Touka
       kernel_config:
         description: "Set the path of kernel .config"
         required: false
